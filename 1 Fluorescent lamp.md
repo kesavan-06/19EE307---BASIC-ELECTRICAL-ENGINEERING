@@ -1,5 +1,5 @@
-## Exp. No. 1
-**Date:**  
+## Exp. No. 1  FLURORESCENT LAMP WIRING
+**Date:**  18.08.2025
 
 ## FFLUORESCENT LAMP
 <img width="1544" height="944" alt="image" src="https://github.com/user-attachments/assets/f2c4ece6-23d7-4090-9712-417a76cdc0f7" />
@@ -11,12 +11,11 @@
 https://ebootathon.com/labs/beta/ec/MeasurementAndInstrumentation/exp5/index.html
 
 ## Circuit Diagram
+<img width="908" height="573" alt="image" src="https://github.com/user-attachments/assets/7942dd4c-c6e8-4f9a-8f52-68ebc7e29fd1" />
 
 
 ## Tabulation / Graph 
-
-
-## Sample images 
-
+<img width="801" height="350" alt="EX1" src="https://github.com/user-attachments/assets/e86e9fe5-25d1-473c-96d8-d44d264eab3c" />
 
 ## Result
+<img width="1080" height="265" alt="image" src="https://github.com/user-attachments/assets/e33ad8f5-61db-4515-97fa-16a7ca1d3941" />
