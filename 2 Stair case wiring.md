@@ -1,23 +1,27 @@
-## Exp. No. 2 STAIR CASE WIRING
-**Date:**  18.08.2025
+## Exp. No. 3
+**Date:**  
 
-## STAIR CASE WIRING
-<img width="790" height="910" alt="image" src="https://github.com/user-attachments/assets/6a665d52-16e2-425c-b673-986389134918" />
-<img width="923" height="940" alt="image" src="https://github.com/user-attachments/assets/e38cb69e-967e-423c-b9d2-ecc373814d8f" />
-<img width="703" height="394" alt="image" src="https://github.com/user-attachments/assets/c847728a-f236-4624-8770-39f8604ae0c8" />
+## LOAD TEST ON SINGLE-PHASE TRANSFORMER
 
-## Circuit diagram in software
-<img width="582" height="271" alt="image" src="https://github.com/user-attachments/assets/c005a7f6-916e-4875-a9a9-fc713aa67252" />
+## Aim
+  Determination of Transformer equivalent circuit from Open Circuit and Short Circuit Test.
 
-<img width="717" height="359" alt="Stair-case-lighting-connection-diagram" src="https://github.com/user-attachments/assets/d6d63822-b1c4-45ed-acd6-c2424b185772" />
+## Theory
+<img width="1575" height="705" alt="image" src="https://github.com/user-attachments/assets/2ebd3360-a050-4096-ba44-e926a8b4130f" />
+<img width="1395" height="808" alt="image" src="https://github.com/user-attachments/assets/43f041e2-4907-4376-b54a-ba7d3b58ecbf" />
+<img width="1323" height="781" alt="image" src="https://github.com/user-attachments/assets/e295a553-de86-4de9-b2d9-1250e621bb08" />
+<img width="1572" height="671" alt="image" src="https://github.com/user-attachments/assets/03dfd751-789d-487e-bebb-c9b9e59d1127" />
+<img width="1401" height="854" alt="image" src="https://github.com/user-attachments/assets/4728fb57-67ff-45eb-a17d-d7eb54102166" />
+<img width="1284" height="386" alt="image" src="https://github.com/user-attachments/assets/9ec76258-0034-4d85-8ca5-d8e829917942" />
+
+## Link
+https://ems-iitr.vlabs.ac.in/exp/circuit-parameters-oc-test/index.html 
 
 # Tabulation /Graph
-![WhatsApp Image 2025-11-15 at 06 19 44_7acc6ff1](https://github.com/user-attachments/assets/25686b66-8c42-4817-93f8-d1a575841c14)
 
-
-![WhatsApp Image 2025-11-15 at 06 19 44_6022d4d1](https://github.com/user-attachments/assets/f30b0fb7-cdab-44a3-9e22-e3d91be8ea9e)
+![WhatsApp Image 2025-11-15 at 06 23 01_de93301f](https://github.com/user-attachments/assets/c3915ef4-8ddd-403c-8944-a8610250eb8b)
 
 
 # Result
 
-Thus the staircase wiring is connected and tested
+Hence oc and sc test a signal phase transformer is performed to determine the regulator and efficiency.
