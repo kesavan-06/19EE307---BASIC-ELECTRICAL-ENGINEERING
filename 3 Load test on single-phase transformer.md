@@ -19,9 +19,10 @@ https://ems-iitr.vlabs.ac.in/exp/circuit-parameters-oc-test/index.html
 
 # Tabulation /Graph
 
-
-# Sample images 
+![WhatsApp Image 2025-11-15 at 06 23 01_de93301f](https://github.com/user-attachments/assets/c3915ef4-8ddd-403c-8944-a8610250eb8b)
 
 
 # Result
+
+Hence oc and sc test a signal phase transformer is performed to determine the regulator and efficiency.
 
