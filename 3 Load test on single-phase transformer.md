@@ -1,5 +1,5 @@
-## Exp. No. 3
-**Date:**  
+## Exp. No. 3 DETERMINATION OF TRANSFORMER EQUIVALENT CIRCUIT
+**Date:**  25.8.2025
 
 ## LOAD TEST ON SINGLE-PHASE TRANSFORMER
 
@@ -18,11 +18,7 @@
 https://ems-iitr.vlabs.ac.in/exp/circuit-parameters-oc-test/index.html 
 
 # Tabulation /Graph
-
-![WhatsApp Image 2025-11-15 at 06 23 01_de93301f](https://github.com/user-attachments/assets/c3915ef4-8ddd-403c-8944-a8610250eb8b)
-
+![Untitled](https://github.com/user-attachments/assets/06315655-2d40-4009-bdfd-8405bf6d8dcc)
 
 # Result
-
-Hence oc and sc test a signal phase transformer is performed to determine the regulator and efficiency.
-
+![Untitled](https://github.com/user-attachments/assets/25c1a6bc-932b-47cd-afec-6080779eb3dd)
